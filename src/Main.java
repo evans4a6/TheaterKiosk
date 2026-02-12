@@ -11,7 +11,7 @@ public class Main {
 
         if(age >= 21)
         {
-            System.out.println("You are over the age of 21, so you you get a wristband. Enjoy!");
+            System.out.println("You are over the age of 21, so you get a wristband. Enjoy!");
         }
 
     }
